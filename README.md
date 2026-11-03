@@ -12,9 +12,9 @@ My name is Candido Manuel Seneriches IV, and I'm a current math undergraduate st
 - ML: PyTorch
 
 ## Featured Projects
-- [ODE-Phase-Portraits-Gallery](https://github.com/CandidoS391/phase-portraits-gallery)
-- [Lorenz-Attractor-Visualization](https://github.com/CandidoS391/lorenz-attractor)
-- [Investigation-On-Activation-Functions-Weight-Initialization-and-Optimization](https://github.com/CandidoS391/Machine-Learning-Optimization-Initialization)
+- [**ODE Phase Portraits Gallery**](https://github.com/CandidoS391/phase-portraits-gallery)
+- [**Lorenz Attractor Gallery**](https://github.com/CandidoS391/lorenz-attractor)
+- [**Activation/Initialization Functions, and mini-batch SGD investigation**](https://github.com/CandidoS391/Machine-Learning-Optimization-Initialization)
 
 ## Contacts
-- [LINKEDIN](https://www.linkedin.com/in/candido-seneriches-iv-483860389/)
+- [LinkedIn](https://www.linkedin.com/in/candido-seneriches-iv-483860389/)
