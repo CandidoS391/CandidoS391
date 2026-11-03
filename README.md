@@ -1,16 +1,20 @@
-## Hi there 👋
+# Candido Manuel Seneriches IV
 
-<!--
-**CandidoS391/CandidoS391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Candido Manuel Seneriches IV, and I'm a current math undergraduate student at the University of California, Riverside, with emphasis on Computational Mathematics. In the future, I hope to specialize in scientific computing, machine learning, and other applications of math to engineering and computer science.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Scientific Computing
+- Numerical Analysis
+- Differential Equations and Dynamical Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Programming Languages: Python, C++, MATLAB
+- ML: PyTorch
+
+## Featured Projects
+- [ODE-Phase-Portraits-Gallery](https://github.com/CandidoS391/phase-portraits-gallery)
+- [Lorenz-Attractor-Visualization](https://github.com/CandidoS391/lorenz-attractor)
+- [Investigation-On-Activation-Functions-Weight-Initialization-and-Optimization](https://github.com/CandidoS391/Machine-Learning-Optimization-Initialization)
+
+## Contacts
+- [LINKEDIN](https://www.linkedin.com/in/candido-seneriches-iv-483860389/)
