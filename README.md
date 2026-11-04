@@ -6,6 +6,7 @@ My name is Candido Manuel Seneriches IV, and I'm a current math undergraduate st
 - Scientific Computing
 - Numerical Analysis
 - Differential Equations and Dynamical Systems
+- Applied Machine Learning/Deep Learning/Artificial Intelligence
 
 ## Tools
 - Programming Languages: Python, C++, MATLAB
