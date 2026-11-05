@@ -1,5 +1,7 @@
 # Candido Manuel Seneriches IV
 
+[![ODE Phase Portraits Gallery](assets/images/Damped_Pendulum.png)](https://github.com/CandidoS391/phase-portraits-gallery)
+
 My name is Candido Manuel Seneriches IV, and I'm a current math undergraduate student at the University of California, Riverside, with emphasis on Computational Mathematics. In the future, I hope to specialize in scientific computing, machine learning, and other applications of math to engineering and computer science.
 
 ## Areas of Interest
