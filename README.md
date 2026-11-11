@@ -17,7 +17,8 @@ My name is Candido Manuel Seneriches IV, and I'm a current math undergraduate st
 ## Featured Projects
 - [**ODE Phase Portraits Gallery**](https://github.com/CandidoS391/phase-portraits-gallery)
 - [**Lorenz Attractor Gallery**](https://github.com/CandidoS391/lorenz-attractor)
-- [**Activation/Initialization Functions, and mini-batch SGD investigation**](https://github.com/CandidoS391/Machine-Learning-Optimization-Initialization)
+- [**Activation/Initialization Functions, and mini-batch SGD Investigation**](https://github.com/CandidoS391/Machine-Learning-Optimization-Initialization)
+- [**Learning Under Transformation Machine Learning Investigation**](https://github.com/CandidoS391/learning-under-transformation)
 
 ## Contacts
-- [LinkedIn](https://www.linkedin.com/in/candido-seneriches-iv-483860389/)
+- [**LinkedIn**](https://www.linkedin.com/in/candido-seneriches-iv-483860389/)
